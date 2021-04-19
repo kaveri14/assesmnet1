@@ -1,0 +1,3 @@
+1618810953365	2273	POST HTTP Request	200	OK	Thread Group 1-1	text	true		462	327	1	1	https://petstore.swagger.io/v2/store/order	2264	0	1958
+1618810955730	281	GET HTTP Request	200	OK	Thread Group 1-1	text	true		457	346	1	1	https://petstore.swagger.io/v2/store/order/9223372036854775807	280	0	0
+1618810956012	1246	GET HTTP Request2	200	OK	Thread Group 1-1	text	false	Value expected to match regexp '4', but it did not match: '6'	424	174	1	1	https://petstore.swagger.io/v2/store/inventory	1246	0	948
